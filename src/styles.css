@@ -21,3 +21,10 @@
   -webkit-animation-name: fadeIn;
   animation-name: fadeIn;
 }
+
+/*SVG LOADING*/
+
+svg path,
+svg rect{
+  fill: black;
+}
